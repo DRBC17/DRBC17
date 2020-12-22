@@ -21,7 +21,7 @@
 
 <!-- Iconos proporcionados por https://devicon.dev/ -->
 
-<div align="center">
+<div align="left">
 <img width="30px" height="30px" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
 <img width="30px" height="30px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
@@ -40,8 +40,7 @@
 <img width="30px" height="30px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </div>
 
-
-<br>
+<hr>
 
 <h4>Estadísticas de GitHub</h4>
 
