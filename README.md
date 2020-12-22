@@ -21,28 +21,28 @@
 
 <!-- Iconos proporcionados por https://devicon.dev/ -->
 
-<img width="30px" height="30px" align="left" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
-<img width="30px" height="30px"  align="left" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img width="30px" height="30px"  align="left" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
-<img width="30px" height="30px"  align="left" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
-<img width="30px" height="30px"  align="left" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/c/c-original.svg" />
-<img width="30px" height="30px"  align="left" alt="Csharp" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/csharp/csharp-original.svg" />
-<img width="30px" height="30px"  align="left" alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/kotlin/kotlin-original.svg" />
-<img width="30px" height="30px"  align="left" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" />
-<img width="30px" height="30px"  align="left" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" />
-<img width="30px" height="30px"  align="left" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" />
-<img width="30px" height="30px"  align="left" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
-<img width="30px" height="30px"  align="left" alt="Handlebars" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/handlebars/handlebars-original.svg" />
-<img width="30px" height="30px"  align="left" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/angularjs/angularjs-plain.svg" />
-<img width="30px" height="30px"  align="left" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
-<img width="30px" height="30px"  align="left" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original-wordmark.svg" />
-<img width="30px" height="30px"  align="left" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<div align="center">
+<img width="30px" height="30px" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/git/git-plain.svg" />
+<img width="30px" height="30px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
+<img width="30px" height="30px" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
+<img width="30px" height="30px" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/c/c-original.svg" />
+<img width="30px" height="30px" alt="Csharp" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/csharp/csharp-original.svg" />
+<img width="30px" height="30px" alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/kotlin/kotlin-original.svg" />
+<img width="30px" height="30px" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/nodejs/nodejs-original.svg" />
+<img width="30px" height="30px" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/html5/html5-original.svg" />
+<img width="30px" height="30px" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/css3/css3-original.svg" />
+<img width="30px" height="30px" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/bootstrap/bootstrap-plain.svg" />
+<img width="30px" height="30px" alt="Handlebars" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/handlebars/handlebars-original.svg" />
+<img width="30px" height="30px" alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/angularjs/angularjs-plain.svg" />
+<img width="30px" height="30px" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mysql/mysql-original.svg" />
+<img width="30px" height="30px" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width="30px" height="30px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+</div>
 
 
 <br>
 
-
-<hr>
 <h4>Estadísticas de GitHub</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=DRBC17&&show_icons=true&title_color=ffffff&icon_color=dd0531&text_color=daf7dc&bg_color=151515)
