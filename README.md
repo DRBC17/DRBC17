@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">Soy un desarrollador de aplicaciones web, escritorio y mobil.</h3>
+<h3 align="center">Soy un desarrollador de aplicaciones web, escritorio y móviles.</h3>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
