@@ -11,9 +11,9 @@
 
 <h3 align="center">Soy un desarrollador de aplicaciones web, escritorio y móviles.</h3>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="http://www.freepik.com" src="https://github.com/DRBC17/DRBC17/blob/main/3099563.jpg" />
 
-- 🌱 Actualmente estoy aprendiendo ... **NestJS y Ionic**
+- 🌱 Actualmente estoy aprendiendo ... **NestJS y Flutter**
 - 💬 Preguntame sobre ... **Desarrollo web**
 - 📫 Como llegar a mi **diegobuezo2016@gmail.com**
 
