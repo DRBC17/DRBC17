@@ -13,7 +13,7 @@
 
 <img width="50%" align="right" alt="http://www.freepik.com" src="https://github.com/DRBC17/DRBC17/blob/main/3099563.jpg" />
 
-- 🌱 Actualmente estoy aprendiendo ... **Flutter y NestJS**
+- 🌱 Actualmente estoy aprendiendo ... **NestJS y NextJS**
 - 💬 Preguntame sobre ... **Desarrollo web y de APIS**
 - 📫 Como llegar a mi **diegobuezo2016@gmail.com**
 
